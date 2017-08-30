@@ -8,7 +8,7 @@
 
 ```Java
 public class Main{
-		public static LinkedList reverseLinkedList(LinkedList head){
+	public static LinkedList reverseLinkedList(LinkedList head){
 	    LinkedList curNode = head;
 	    LinkedList preNode = null;
 	    LinkedList nextNode = null;
