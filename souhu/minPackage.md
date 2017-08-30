@@ -29,6 +29,7 @@
 具体的实现代码如下：
 
 ```Java
+public class Main{
     public static void minPackage() {
         Scanner scanner = new Scanner(System.in);
         List<Integer> res = new ArrayList<>();
@@ -72,6 +73,7 @@
             System.out.println(min);
         }
     }
+}
 
 ```
 
